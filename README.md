@@ -3,4 +3,4 @@ We have synthesized an image-classification problem. Your goal is to build a cla
 We have collected images-data from different sources and combine them into this 1 file: gen_img_data.json.zip. Data is well-formatted and if analyzed carefully can help you fully grasp the problem.
 
 # Dataset
-gen_img_data.json.zip : 
+gen_img_data.json.zip : https://drive.google.com/file/d/1LGNVD284KbXtDLpFy74K-HjXbqkfT-i1/view?usp=sharing
